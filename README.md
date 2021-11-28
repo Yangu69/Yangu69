@@ -11,4 +11,4 @@ I'm familiar with C#, PHP, JavaScript, SQL.
 ### Lane Warrior
 ![menu_background_3](https://user-images.githubusercontent.com/42221923/143770745-ff09f2f5-58cf-49d3-8a66-5ff6fe394b27.png)
 
-**Lane Warrior** is a game being created in Unity that will be released for Android devices. Repository with detail can be found [here](https://github.com/Yangu69/Lane-Warrior).
+**Lane Warrior** is a game being created in Unity that will be released for Android devices. Repository with details can be found [here](https://github.com/Yangu69/Lane-Warrior).
