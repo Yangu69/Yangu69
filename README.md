@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Yangu69
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# About Me
 
-<!---
-Yangu69/Yangu69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Yangu!
+
+I'm a hobbyist game developer. I work with Unity in my free time to create games.
+
+I'm familiar with C#, PHP, JavaScript, SQL.
+
+# My Projects
+
+### Lane Warrior
+![menu_background_3](https://user-images.githubusercontent.com/42221923/143770745-ff09f2f5-58cf-49d3-8a66-5ff6fe394b27.png)
+
+**Lane Warrior** is a game being created in Unity that will be released for Android devices. Repository with detail can be found [here](https://github.com/Yangu69/Lane-Warrior).
