@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I’m Yangu!
+Hi, I’m Bartek!
 
 I'm a hobbyist game developer. I work with Unity in my free time to create games.
 
